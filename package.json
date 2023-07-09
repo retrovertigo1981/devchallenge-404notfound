@@ -1,0 +1,29 @@
+{
+  "name": "devchallenge-404notfound",
+  "version": "1.0.0",
+  "description": "Challenge: Create a 404 not found page following the design. The page should be responsive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrovertigo1981/devchallenge-404notfound.git"
+  },
+  "keywords": [
+    "404",
+    "not",
+    "found",
+    "dev",
+    "challenge"
+  ],
+  "author": "Sebastián Peña <pjfanchile@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retrovertigo1981/devchallenge-404notfound/issues"
+  },
+  "homepage": "https://github.com/retrovertigo1981/devchallenge-404notfound#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
